@@ -1,9 +1,9 @@
 class PessoaController {
-    static async pegatodas (req,res){
-        try{
-         // acessar modelo
-        }catch(erro){
-         // erro
+    static async pegaTodas (req, res) {
+        try {
+            // acessar o modelo
+        } catch (erro) {
+            // erro
         }
     }
 }
